@@ -60,7 +60,7 @@ namespace ChallengeApp
 			foreach(int i in numbers)
 				avg += i;
 			
-			return avg/ln;
+			return Math.Round(avg/ln, 2);
 
             throw new NotImplementedException();
         }

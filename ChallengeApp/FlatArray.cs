@@ -10,9 +10,7 @@
 // Expected result: {0, 1, 2, 3, 3, 4, 6, 12, 42, 52, 56, 65};
 
 using System;
-using System.Collections;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace ChallengeApp
 {
